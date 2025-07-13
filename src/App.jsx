@@ -19,6 +19,7 @@ import CardDemo from "./exercises/CardDemo"
 import Card from "./components/Card"
 import MUICounter from "./exercises/MUICounter"
 import BasicTextFields from "./exercises/InputField"
+import Pomodoro from "./exercises/Pomodoro"
 
 
 export default function App() {
@@ -44,6 +45,7 @@ export default function App() {
       <CardDemo />
       <MUICounter />
       <BasicTextFields />
+      <Pomodoro />
     </div>
   )
 }
